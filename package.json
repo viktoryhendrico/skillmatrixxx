@@ -1,0 +1,1 @@
+{"name":"hc-talent-skill-matrix","version":"1.0.0","private":true,"dependencies":{"@netlify/blobs":"^8.1.0","bcryptjs":"^2.4.3","jsonwebtoken":"^9.0.2"}}
